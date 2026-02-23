@@ -1,3 +1,7 @@
+
+
+
+
 import streamlit as st
 import json
 import random
@@ -279,6 +283,6 @@ st.markdown("""
         padding: 10px;
         color: white;
         font-weight: bold;">
-        🚀 Made with ❤️ by Yashodip | Bankify © 2026
+        🚀 Made by Yashodip | Bankify © 2026
     </div>
 """, unsafe_allow_html=True)
